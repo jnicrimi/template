@@ -5,6 +5,7 @@ actionlint = "1.7.12"
 zizmor = "1.29.0"
 gitleaks = "8.30.1"
 lefthook = "2.1.11"
+taplo = "0.10.0"
 
 [tasks.setup]
 description = "環境基盤を最新化"
