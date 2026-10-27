@@ -6,7 +6,7 @@ shellcheck = "0.11.0"
 zizmor = "1.31.1"
 gitleaks = "8.30.1"
 lefthook = "2.2.2"
-taplo = "0.10.0"
+tombi = "1.9.6"
 
 [tasks.setup]
 description = "環境基盤を最新化"
